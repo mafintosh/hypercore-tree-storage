@@ -1,0 +1,23 @@
+{
+  "name": "hypercore-tree-storage",
+  "version": "0.0.0",
+  "description": "A module that stores hypercore metadata trees using a storage provider.",
+  "main": "index.js",
+  "dependencies": {
+    "uint64be": "^1.0.1"
+  },
+  "devDependencies": {
+    "random-access-file": "^1.2.0",
+    "random-access-memory": "^1.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/hypercore-tree-storage.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/hypercore-tree-storage/issues"
+  },
+  "homepage": "https://github.com/mafintosh/hypercore-tree-storage"
+}
