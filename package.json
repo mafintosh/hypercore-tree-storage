@@ -4,6 +4,7 @@
   "description": "A module that stores hypercore metadata trees using a storage provider.",
   "main": "index.js",
   "dependencies": {
+    "lru": "^3.1.0",
     "uint64be": "^1.0.1"
   },
   "devDependencies": {
